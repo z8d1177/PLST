@@ -1,0 +1,4 @@
+ {"placeholder": "text_a"} is about {"mask"} .
+ {"placeholder": "text_a"} This topic is about {"mask"} .
+ The category of {"placeholder": "text_a"} is {"mask"}.
+ The topic of {"placeholder": "text_a"} is {"mask"}.

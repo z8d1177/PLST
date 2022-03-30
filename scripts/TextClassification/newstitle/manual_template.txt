@@ -1,0 +1,4 @@
+ A {"mask"} news : {"placeholder": "text_a"}
+ {"placeholder": "text_a"} This topic is about {"mask"} .
+ {"placeholder": "text_a"} is about {"mask"} .
+ The topic of {"placeholder": "text_a"} is {"mask"}.
